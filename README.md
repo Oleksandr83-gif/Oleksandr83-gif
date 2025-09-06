@@ -1,6 +1,6 @@
 # Oleksandr Matvieiev
 
-## 🚀 AI Engineer, Creator of RUFI and Developer of AI Workbench
+## 🚀 AI Engineer, Creator of R.U.F.I (Responsive Unified Functional Intelligence) and Developer of "AI_Communication_Shell"
 
 Hi! I’m Oleksandr Matvieiev — a developer, visionary, and creator of unique tools for interacting with AI. I don’t just integrate GPT — I build **architectures where AI becomes an active agent**, assistant, protector, and even co-author. My mission is to make AI practically useful, safe, and truly intelligent.
 
@@ -8,7 +8,7 @@ Hi! I’m Oleksandr Matvieiev — a developer, visionary, and creator of unique 
 
 ## 🔹 My Projects
 
-### 🔎 **AI Workbench**
+### 🔎 **"AI_Communication_Shell"**
 
 A unique AI platform where:
 
@@ -18,7 +18,7 @@ A unique AI platform where:
 * The system is built on **DPA (Distributed Processing Agents)** architecture;
 * All actions are logged, tested in a sandbox, and only then executed.
 
-### 🔍 **RUFI OS (Responsive Unified Functional Intelligence)** *(in development)*
+### 🔍 **R.U.F.I OS (Responsive Unified Functional Intelligence)** *(in development)*
 
 A real-time AI core with:
 
@@ -26,7 +26,7 @@ A real-time AI core with:
 * Emergency reaction, logging, and video capture;
 * Designed for smart homes, cars, and secure environments.
 
-### ⚖️ **RUFI LegalBot** *(in development)*
+### ⚖️ **AI_LegalBot** *(in development)*
 
 A Ukrainian-language legal bot:
 
