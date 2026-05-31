@@ -1,82 +1,198 @@
 # Oleksandr Matvieiev
 
-## 🚀 AI Engineer, Creator of R.U.F.I (Responsive Unified Functional Intelligence) and Developer of "AI_Communication_Shell"
+## Software Developer | AI Student | Creator of Practical AI Tools
 
-Hi! I’m Oleksandr Matvieiev — a developer, visionary, and creator of unique tools for interacting with AI. I don’t just integrate GPT — I build **architectures where AI becomes an active agent**, assistant, protector, and even co-author. My mission is to make AI practically useful, safe, and truly intelligent.
+Hi! I’m Oleksandr Matvieiev — a software developer and AI student focused on building practical tools that combine artificial intelligence, automation, backend systems, desktop applications, and real-world problem solving.
 
----
-
-## 🔹 My Projects
-
-### 🔎 **"AI_Communication_Shell"**
-
-A unique AI platform where:
-
-* **A neural network controls GPT**, not the other way around;
-* Commands go through filtering, classification, and logical reflection;
-* GPT is used not for chatting, but as an analytical and generative tool;
-* The system is built on **DPA (Distributed Processing Agents)** architecture;
-* All actions are logged, tested in a sandbox, and only then executed.
-
-### 🔍 **R.U.F.I OS (Responsive Unified Functional Intelligence)** *(in development)*
-
-A real-time AI core with:
-
-* Embedded legal logic (crime recognition);
-* Emergency reaction, logging, and video capture;
-* Designed for smart homes, cars, and secure environments.
-
-### ⚖️ **AI_LegalBot** *(in development)*
-
-A Ukrainian-language legal bot:
-
-* Generates official legal documents;
-* Analyzes and qualifies cases under Ukrainian and EU law;
-* Capable of participating in e-court proceedings.
+My background combines law, public service, construction business, and software development. This gives me a practical view of technology: I build tools not only to experiment, but to solve real tasks.
 
 ---
 
-## 🌟 About Me
+## About Me
 
-* 🎓 Bachelor of Law with honors (KhNUVD)
-* ⚖️ 4 years of experience in the Ministry of Internal Affairs (Ukraine)
-* 🚀 Student of KhNURE, majoring in AI
-* 💪 Studying Python, C++, PyQt, SQLite3, neural networks, and cybersecurity
-* 🧠 Practicing machine learning, Arduino, and neural network control of motors and physical systems
-* 🖥️ Experience independently deploying Ubuntu servers on Hetzner:
-
-  * Installing Webmin
-  * Configuring remote access (XRDP, VNC)
-  * Implementing a full graphical interface to work with Ubuntu as a desktop environment
+- Student at Kharkiv National University of Radio Electronics (KhNURE), AI-related field
+- Bachelor of Law with honors from Kharkiv National University of Internal Affairs
+- 4 years of experience in the Ministry of Internal Affairs of Ukraine
+- Experience as an entrepreneur in construction and repair services
+- Interested in artificial intelligence, backend development, desktop applications, cybersecurity, automation, and neural networks
+- Practicing Python, C++, PyQt, SQLite, Docker, FastAPI, PostgreSQL, WebSocket, and machine learning
 
 ---
 
-## 📦 Tech Stack
+## Published Applications
 
-* 🧠 AI: OpenAI API, custom neural networks, DPA architecture
-* 🧰 Backend: Python, C++, SQLite3
-* 🖼️ UI/UX: PyQt6, JSON-driven layouts
-* 🧪 Tools: Git, Render, Railway, VS Code, Jupyter
+### AI ConvertCore
 
----
+A Windows desktop application for local document and image conversion.
 
-## 🌍 Mission
+Main features:
 
-To build AI tools that:
+- PDF, DOCX and TXT conversion workflows
+- Image format conversion
+- Local/offline processing
+- OCR-related functionality
+- Windows desktop packaging and deployment
 
-* Serve people — not control them
-* Deliver real value — not just hype
-* Can explain, protect, and improve
+Microsoft Store:
 
----
-
-**Welcome to the era of functional intelligence.**
-
-> “I don’t build another GPT UI. I create a digital brain with hands and survival instinct.”
+https://apps.microsoft.com/detail/9PBKSMKL2SGD
 
 ---
 
-## 🔗 Contact
+### DesktopSticker1.0
 
-* Email: matveevoleksandr83@gmail.com
+A lightweight Windows desktop sticky-note application.
+
+Main features:
+
+- Realistic desktop sticker interface
+- Handwritten-style text
+- Pinning mode
+- Custom size adjustment
+- Local work without mandatory internet connection
+
+Microsoft Store:
+
+https://apps.microsoft.com/detail/9N1322V0QF7G
+
+---
+
+## Current Projects
+
+### Prosto Chat
+
+A cross-platform chat application developed as a practical university project.
+
+Technologies and features:
+
+- FastAPI backend
+- Browser-based frontend
+- PostgreSQL database
+- WebSocket messaging
+- RabbitMQ / AMQP
+- Docker Compose deployment
+- k3s / Kubernetes manifests
+- Authentication
+- Private and group chat logic
+
+Demo video:
+
+https://github.com/Oleksandr83-gif/prosto-chat-cross-platform/releases/tag/v1.0-demo
+
+---
+
+### AI Communication Shell
+
+An experimental AI control platform where user commands are processed through classification, filtering, logical analysis, and controlled execution.
+
+Main ideas:
+
+- AI-assisted command interpretation
+- Safety checks before execution
+- Sandbox-oriented workflow
+- Logging of actions
+- Modular architecture for interaction between AI and system tools
+
+---
+
+### VeraX Concept
+
+A long-term research concept for a responsive AI assistant architecture.
+
+The project explores:
+
+- AI-assisted decision logic
+- User support and automation
+- Legal and safety-oriented reasoning
+- Integration with smart environments
+- Future local AI infrastructure
+- Intelligent interaction between users, software systems, and automated services
+
+---
+
+### AI LegalBot
+
+A concept of a Ukrainian-language legal assistant.
+
+Planned features:
+
+- Drafting legal documents
+- Explaining legal procedures
+- Supporting Ukrainian users with structured legal information
+- Possible future integration with e-court workflows
+
+---
+
+## Tech Stack
+
+### Programming
+
+- Python
+- C++
+- JavaScript
+- Kotlin basics
+- SQL
+
+### Backend
+
+- FastAPI
+- Flask
+- PostgreSQL
+- SQLite
+- REST API
+- WebSocket
+- RabbitMQ / AMQP
+
+### Desktop / UI
+
+- PyQt6
+- WinUI
+- HTML / CSS / JavaScript
+
+### DevOps / Deployment
+
+- Git / GitHub
+- Docker
+- Docker Compose
+- Ubuntu Server
+- Hetzner Cloud
+- Render
+- k3s / Kubernetes basics
+
+### AI / Machine Learning
+
+- OpenAI API
+- Local neural network experiments
+- PyTorch basics
+- Dataset preparation
+- Model training experiments
+- Jupyter Notebook
+
+---
+
+## Practical Experience
+
+I have experience independently deploying and configuring Ubuntu servers, including:
+
+- Remote access setup
+- Web server configuration
+- Docker-based deployment
+- Running backend applications on cloud servers
+- Basic Linux administration
+
+I also have experience publishing Windows applications to the Microsoft Store, including packaging, application identity, Store listing preparation, and release workflow.
+
+---
+
+## Mission
+
+My goal is to build practical software systems that help people work faster, safer, and more effectively.
+
+I am especially interested in projects where AI is not just a chatbot, but a useful component inside real applications: assistants, automation tools, document systems, legal tools, business software, and intelligent user interfaces.
+
+---
+
+## Contact
+
+Email: matveevoleksandr83@gmail.com
   
